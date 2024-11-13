@@ -132,7 +132,7 @@ nav button#menuButton {
 }
 
 .main .right img {
-    width: 500px;
+    width: 400px;
 }
 
 .skills {
@@ -210,11 +210,11 @@ nav button#menuButton {
 }
 
 .about .left img {
-    width: 440px;
+    width: 450px;
 }
 
-.about .right p {
-    font-size: 16px;
+.about .right .about-me-text {
+    font-size: 20px;
     margin-top: 30px;
 }
 
@@ -231,15 +231,15 @@ nav button#menuButton {
 }
 
 .portfolio .header button {
-    background-color: #ff0000;
-    padding: 10px 20px;
+    background-color: #000;
+    padding: 12px 30px;
     color: #fff;
     display: flex;
     align-items: center;
     cursor: pointer;
-    gap: 8px;
+    gap: 15px;
     border: none;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .portfolio .header button i {
